@@ -1,6 +1,6 @@
 # black-hole-sim
 
-made for my astronomy class in spring 2026. simulator runs in matplotlib
+final project for spring 2026 astronomy class. simulator runs in matplotlib
 
 schwarzchild_simulator.py -> we test a particle under effective potential $V_{\mathrm{eff}}(r) = (1 - 2M/r)(1 + L^2/r^2)$ with conserved energy $E$ and angular momentum $L$. we define the black hole through the schwarzchild metric, $r_s = 2GM/c^2$
 
